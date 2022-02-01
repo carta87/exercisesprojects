@@ -1,8 +1,0 @@
-package pildoras;
-
-public class Snippet {
-	public static void main(String[] args) {
-		pildoras
-	}
-}
-
