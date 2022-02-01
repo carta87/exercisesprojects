@@ -5,7 +5,7 @@ public class Arrays_dimensiones {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[][ ]  matrix=new int[2][3];
+		int[][]  matrix =new int[2][3];
 		
 		matrix[0][0]=15;
 		matrix[0][1]=23;
