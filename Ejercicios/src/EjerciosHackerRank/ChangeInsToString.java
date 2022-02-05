@@ -14,7 +14,8 @@ public class ChangeInsToString {
         	 Scanner in = new Scanner(System.in);
         	 int n = in.nextInt();  
         	// System.out.println(n);
-        	 in.close();
+        	 
+        	 in.close();  
         
         	
         	// Scanner text = new Scanner(System.in);

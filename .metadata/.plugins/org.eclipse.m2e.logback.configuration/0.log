@@ -559,3 +559,8 @@ java.lang.NumberFormatException: For input string: "C:\Program Files\Eclipse Ado
 2022-02-04 20:21:25,677 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USUARIO\eclipse-workspace\carlosT\api\src\main\resources
 2022-02-04 20:21:25,682 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-04 20:21:25,682 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USUARIO\eclipse-workspace\carlosT\api\src\test\resources
+2022-02-05 10:49:00,654 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-05 10:49:09,837 [Worker-8: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2022-02-05 10:49:56,265 [Worker-8: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 46428 ms
+2022-02-05 10:53:30,068 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-05 10:53:30,069 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USUARIO\eclipse-workspace\carlosT\api\src\main\resources
