@@ -4,7 +4,7 @@ import java.security.Permission;
 import java.security.Security;
 import java.util.Scanner;
 
-public class ChangeInsToString {
+public class ChangeInsToString { 
 
 	public static void main(String[] args) {
 		
