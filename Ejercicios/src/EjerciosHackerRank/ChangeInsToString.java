@@ -12,7 +12,7 @@ public class ChangeInsToString {
       
          try {
         	 Scanner in = new Scanner(System.in);
-        	 int n = in.nextInt();
+        	 int n = in.nextInt();  
         	// System.out.println(n);
         	 in.close();
       
