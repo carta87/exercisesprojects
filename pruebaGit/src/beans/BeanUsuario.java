@@ -7,10 +7,7 @@ public class BeanUsuario implements Serializable {//debe implemetar
 	private String name;//sus modificadores deben ser privados
 	private String apellido;
 
-	public BeanUsuario() {//constructor sin parramentos
-		
-	}
-    
+	
 	public String getName() {
 		return name;
 	}

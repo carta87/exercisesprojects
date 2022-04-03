@@ -1,4 +1,4 @@
-package ProgramacionBasica;
+package Conceptos;
 
 import java.util.Scanner;
 

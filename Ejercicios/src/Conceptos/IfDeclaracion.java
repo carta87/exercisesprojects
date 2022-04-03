@@ -1,3 +1,4 @@
+package Conceptos;
 public class IfDeclaracion {
     public static void main(String[] args) {
         boolean isBluetudEstado = true;

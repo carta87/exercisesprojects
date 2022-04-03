@@ -1,4 +1,5 @@
-package ProgramacionBasica;
+package Conceptos;
+
 
 public class CasteoDatos {
 

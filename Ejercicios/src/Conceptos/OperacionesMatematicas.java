@@ -1,4 +1,5 @@
-package ProgramacionBasica;
+package Conceptos;
+
 
 public class OperacionesMatematicas {
     public static void main(String[] args) {

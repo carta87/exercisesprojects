@@ -1,3 +1,4 @@
+package Conceptos;
 public class For {
     static boolean estaEncendidaLinterna = false;
 

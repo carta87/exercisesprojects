@@ -1,3 +1,4 @@
+package Conceptos;
 /*Vamos a crear el algoritmo con la lógica necesaria para encender una lampara,
  emitir un mensaje y detener las luces en algún momento.
  El Bucle While nos ayuda a ejecutar una parte del código mientras una condición se cumpla.
