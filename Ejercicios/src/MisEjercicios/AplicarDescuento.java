@@ -9,10 +9,11 @@ import java.util.Scanner;
  */
 public class AplicarDescuento {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		int cantidadCompra = 0;
 		double valorPagar= 0;
 		int respuesta = 0;
+		
 		
 		do {
 

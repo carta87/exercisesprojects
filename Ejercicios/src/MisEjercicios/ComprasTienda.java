@@ -8,6 +8,7 @@ public class ComprasTienda {
  public static void main(String[] args) {
 	 
 	 int ventas[] =  new int [10];
+	 double sumatoria = 0;
 	 Scanner sc = new Scanner(System.in);
 	 
 	 System.out.println("ingrese las ventas del mes: ");
@@ -17,13 +18,13 @@ public class ComprasTienda {
 		 
 	 }
 	 int k=0;
-	 int totalContador= 0;
+	 int totalContador= 0;  
 	 int totalVentasSuperior = 0;
 	 while (k<10) {
 		 
 		 if(ventas[k]>50000) {
 			 System.out.println("$ "+ ventas[k]  );
-			 totalVentasSuperior = +ventas[k];
+			 sumatoria= sumatoria+ventas[k];
 			 
 			 totalContador++;
 		 }
@@ -31,7 +32,7 @@ public class ComprasTienda {
 		 
 	 }
 	 System.out.println("este es el suma de solo las ventas superiores" + totalVentasSuperior);
-	 System.out.println("el total de ventas mayores a 50,000 es" + totalContador);
+	 System.out.println("el total de ventas mayores a 50,000 es" + sumatoria + "representa la siguiente cantidad de compras " + totalContador);
 	
 }
 }
